@@ -18,6 +18,17 @@ nav{
     position: relative;
 }
 
+.sociales{
+    text-align: center;
+}
+.sociales li{
+    display: inline-block;
+    margin-bottom: 4%;
+}
+.sociales a{
+    padding: 10px;
+}
+
 .link {
     transition: 0.4s;
     color: #ffffff;
